@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Caputure</string>
+    <string name="register">Register</string>
+    <string name="recognition">Recognition</string>
+    <string name="todo">TODO</string>
+    <string name="todo_">TODO</string>
+    <string name="todo__">TODO</string>
+    <string name="register_successfully">Register Successfully</string>
+    <string name="go_to_add_the_register">Go to Add the Register</string>
+</resources>
